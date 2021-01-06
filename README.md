@@ -5,12 +5,26 @@ This is my demo project for one-click docker image builder. That docker image ca
 
 ## Backend
 
-The Backend is written in golang. This is my third project using golang.😎😎😎
+The Backend is written in [Golang](https://golang.org/). This is my third project using Golang.😎😎😎
 
 
 ## Frontend
 
-The frontend is written in ReactJS. React is a popular library for creating frontend. I used it as it requires less code to write.😂😂😂
+The frontend is written in [ReactJS](http://reactjs.org/). React is a popular library for creating frontend. I used it as it requires less code to write.😂😂😂
+
+
+### Usage 👀👀👀
+
+```
+git clone https://github.com/muntakim1/one-click-deployment.git
+
+cd ./one-click-deployment
+
+go mod tidy 🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️
+
+go main.go 🏃‍♀️🏃‍♀️🏃‍♀️
+
+```
 
 
 If you like my project **Please Give this repo star**. Thank you.!
